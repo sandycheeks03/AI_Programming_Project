@@ -1,0 +1,7 @@
+# Python libraries required for AI Course Assistant Chatbot
+# Install using: pip install -r requirements.txt
+
+# No external libraries needed for basic chatbot
+# The chatbot uses only Python standard libraries:
+# - re (regular expressions)
+# - datetime (timestamps)
